@@ -36,6 +36,6 @@ The development process within the accompanying Jupyter Notebook (machine_transl
 
 The project primarily uses Keras (with TensorFlow backend) for neural network development, along with Numpy for numerical operations.
 
-# Important Note on Intellectual Property
+## Contribution Note
 
 Please be aware: The code, text, images, and other files found in this repository are NOT my intellectual property. They originate from and belong to the Udacity NLP Nanodegree Program. My contributions to this project were exclusively within the designated 'IMPLEMENTATION' sections of the machine_translation.ipynb notebook, where I developed the required functionalities as part of the Nanodegree curriculum. For comprehensive details regarding intellectual property, please consult the CODEOWNERS file within this repository.
