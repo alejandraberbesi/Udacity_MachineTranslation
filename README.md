@@ -32,9 +32,7 @@ The development process within the accompanying Jupyter Notebook (machine_transl
 
         Finally, a custom, more advanced model is built, combining learned techniques to achieve higher translation quality.
 
-* Implementation Focus: Specific sections within the notebook, marked with '(IMPLEMENTATION)', require hands-on coding to complete the network layers and data processing functions.
-
-The project primarily uses Keras (with TensorFlow backend) for neural network development, along with Numpy for numerical operations.
+* The project primarily uses Keras (with TensorFlow backend) for neural network development, along with Numpy for numerical operations.
 
 ## Contribution Note
 
